@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![PNG](https://github.com/VitiNho-Dev/calculator/blob/master/img/Pixel_3.png)
+![PNG](https://github.com/VitiNho-Dev/Calculadora/blob/master/img/Pixel_3.png)
 
 ## Getting Started
 
